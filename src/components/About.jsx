@@ -93,7 +93,7 @@ const About = () => {
                      boxShadow: '0 0 30px rgba(255,27,27,0.2)',
                    }}>
                 <img
-                  src="./font.jpeg"
+                  src="/images/about.jpg"
                   alt="About Reddy"
                   className="w-full h-auto"
                 />

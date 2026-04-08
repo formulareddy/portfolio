@@ -132,7 +132,7 @@ const Hero = () => {
               ))}
             </div>
             
-            <img className="avatar-image" src="./avator.jpg" alt="Amine" />
+            <img className="avatar-image" src="/images/avatar.jpg" alt="Amine" />
           </div>
         </motion.div>
       </div>

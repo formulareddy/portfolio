@@ -7,7 +7,7 @@ const Projects = () => {
     {
       title: 'Portfolio Website',
       description: 'Modern responsive portfolio with smooth animations and clean UI.',
-      image: '/assets/anime-streaming.jpeg',
+      image: '/images/anime-streaming.jpg',
       tech: ['HTML', 'CSS', 'JS'],
       live: '#',
       github: '#',
@@ -15,7 +15,7 @@ const Projects = () => {
     {
       title: '2D Platformer Game',
       description: 'Pixel-art platformer game built with Unity and C#.',
-      image: '/assets/platformer-game.jpeg',
+      image: '/images/platformer-game.jpg',
       tech: ['Unity', 'C#'],
       live: '#',
       github: '#',
@@ -23,7 +23,7 @@ const Projects = () => {
     {
       title: 'To Do List',
       description: 'Task management app with add, edit, and delete functionality.',
-      image: '/assets/todo-list.jpeg',
+      image: '/images/todo-list.jpg',
       tech: ['HTML', 'CSS', 'JS'],
       live: '#',
       github: '#',
@@ -31,7 +31,7 @@ const Projects = () => {
     {
       title: 'Task Manager',
       description: 'Organize and prioritize daily tasks with a clean interface.',
-      image: '/assets/task-manager.jpeg',
+      image: '/images/task-manager.jpg',
       tech: ['HTML', 'CSS', 'JS'],
       live: '#',
       github: '#',
@@ -39,7 +39,7 @@ const Projects = () => {
     {
       title: 'Game Landing Page',
       description: 'Landing page with animations and parallax effects.',
-      image: '/assets/game-landing.jpeg',
+      image: '/images/game-landing.jpg',
       tech: ['HTML', 'CSS', 'GSAP'],
       live: '#',
       github: '#',
@@ -47,7 +47,7 @@ const Projects = () => {
     {
       title: 'E-Commerce Website',
       description: 'Online store with product filtering and cart system.',
-      image: '/assets/ecommerce.jpeg',
+      image: '/images/ecommerce.jpg',
       tech: ['HTML', 'CSS', 'JS', 'MySQL'],
       live: '#',
       github: '#',
